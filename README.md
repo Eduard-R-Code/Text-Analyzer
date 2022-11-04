@@ -3,7 +3,7 @@
 
 # Text Analyzer
 
-This a text analyzer, it is aimed to help written content creation, with a few indicators usefull for SEO.
+This a text analyzer, it is aimed to help written content creation, with a few indicators useful in Search Engine Optimization.
 
 
 ## Installation
